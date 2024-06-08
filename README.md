@@ -1,0 +1,1 @@
+I collaborated with Faurecia to forecast the KPIs of the Kenitra Plant using time series and deep learning models. Based on these predictions, I developed a tool to visualize the results for the management team. With the provided data, we can proactively address any potential declines in plant performance before they occur.
